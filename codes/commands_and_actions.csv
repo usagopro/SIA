@@ -1,0 +1,661 @@
+Command,Action
+"""Open the homepage of the website""",Navigation
+"""Click on the 'Login' button""",Click
+"""Search for 'best smartphone reviews'""",Query
+"""Go to the 'Products' section""",Navigation
+"""Read the article titled 'Latest News'""",Read
+"""Submit the contact form""",Submit
+"""Set the language to Spanish""",Settings
+"""Navigate back to the previous page""",Navigation
+"""Open the 'About Us' page""",Navigation
+"""Bookmark this page""",Bookmark
+"""Enter 'username123' as the username""",Input
+"""Click on the third result""",Click
+"""Read the contents of the 'FAQ' page""",Read
+"""Submit a feedback form""",Submit
+"""Increase the font size""",Settings
+"""Show the available products""",Query
+"""Translate the page to French""",Settings
+"""Go to the shopping cart""",Navigation
+"""Type 'Hello, world' in the text box""",Input
+"""Navigate to the 'Contact Us' page""",Navigation
+"""Click on the 'Reviews' tab""",Click
+"""Find the 'Search' bar and click on it""",Click
+"""Read the 'Terms and Conditions' page""",Read
+"""Submit a 'Contact Us' form""",Submit
+"""Set the theme to dark mode""",Settings
+"""Show the price of 'Product XYZ'""",Query
+"""Translate the content to German""",Settings
+"""Open the 'Shopping Cart' page""",Navigation
+"""Enter 'password123' as the password""",Input
+"""Click on the 'Submit' button""",Click
+"""Read the 'Privacy Policy' page""",Read
+"""Complete the checkout process""",Submit
+"""Decrease the font size""",Settings
+"""List all available categories""",Query
+"""Translate the page to Chinese""",Settings
+"""Go to the 'Contact Us' section""",Navigation
+"""Input 'email@example.com' as the email""",Input
+"""Click on the 'Product Details' link""",Click
+"""Read the reviews of 'Product ABC'""",Read
+"""Submit a 'Newsletter Signup' form""",Submit
+"""Set the page language to Italian""",Settings
+"""Display product details for 'Item 123'""",Query
+"""Navigate to the 'Help' and 'Support' page""",Navigation
+"""Type '123456' as the verification code""",Input
+"""Click on the 'Add to Cart' button""",Click
+"""Read the 'FAQ' and 'Support' articles""",Read
+"""Submit a 'Product Review' form""",Submit
+"""Open the 'Services' menu""",Click
+"""Find all 'Customer Reviews'""",Query
+"""Navigate to 'Pricing and Plans'""",Navigation
+"""Read the 'Product Description'""",Read
+"""Submit the 'Feedback' form""",Submit
+"""Adjust the font size to medium""",Settings
+"""Show 'FAQs' related to billing""",Query
+"""Translate the 'About Us' page to Spanish""",Settings
+"""Go to the 'User Profile' page""",Navigation
+"""Type '123-456-7890' as the phone number""",Input
+"""Click on the 'Support Center' link""",Click
+"""Find 'Terms of Use' in the footer""",Query
+"""Read the 'Latest News' section""",Read
+"""Submit a 'Review' for 'Product XYZ'""",Submit
+"""Set the background color to blue""",Settings
+"""Show the 'Search Results' for 'Keyword'""",Query
+"""Translate the page content to French""",Settings
+"""Open the 'Help Desk' page""",Navigation
+"""Enter 'admin' as the username""",Input
+"""Click on the 'Continue Shopping' button""",Click
+"""Find 'Contact Information' for support""",Query
+"""Read the 'Privacy Policy' section""",Read
+"""Decrease the text size to small""",Settings
+"""List all 'Upcoming Events'""",Query
+"""Go to the 'Product Catalog'""",Navigation
+"""Type 'p@ssw0rd' as the password""",Input
+"""Click on the 'Subscribe' button""",Click
+"""Find 'User Reviews' for 'Product ABC'""",Query
+"""Read the 'News and Updates' page""",Read
+"""Set the 'Day/Night Mode' to dark""",Settings
+"""Show the 'Top Stories' section""",Query
+"""Open the 'Contact Us' form""",Navigation
+"""Input 'contact@example.com' as the email""",Input
+"""Click on the 'Search' icon""",Click
+"""Read the 'Product Reviews' for 'Item 123""",Read
+"""Submit a 'Report a Bug' form""",Submit
+"""Open the 'Contact Us' page""",Navigation
+"""Find 'Product XYZ' details""",Query
+"""Go to the 'Blog' section""",Navigation
+"""Read the 'Terms and Conditions'""",Read
+"""Submit a 'Support Request' form""",Submit
+"""Set the 'Theme' to light mode""",Settings
+"""Show 'Customer Testimonials'""",Query
+"""Translate the content to Spanish""",Settings
+"""Open the 'Cart' page""",Navigation
+"""Enter 'john.doe@email.com' as the email""",Input
+"""Click on the 'Search' button""",Click
+"""Read the 'FAQs' about shipping""",Query
+"""Submit a 'Product Rating' form""",Submit
+"""Adjust the font size to large""",Settings
+"""Display 'New Arrivals' in the results""",Query
+"""Translate the page to German""",Settings
+"""Navigate to 'Help and Support'""",Navigation
+"""Type 'password123' as the password""",Input
+"""Click on the 'Close' button""",Click
+"""Read the 'Privacy Statement'""",Read
+"""Set the 'Background Color' to green""",Settings
+"""Show the 'Search Results' for 'Query'""",Query
+"""Translate the content to French""",Settings
+"""Open the 'Help Center' page""",Navigation
+"""Click on the 'Load More' button""",Click
+"""Read 'User Reviews' for 'Product ABC'""",Query
+"""Submit a 'Feedback Form'""",Submit
+"""Change the text color to red""",Settings
+"""List all 'Categories and Products'""",Query
+"""Translate the page content to Italian""",Settings
+"""Go to the 'Support Chat'""",Navigation
+"""Type 'username123' as the username""",Input
+"""Click on the 'Add Comment' button""",Click
+"""Read the 'News and Updates'""",Read
+"""Submit a 'Contact Request' form""",Submit
+"""Set the 'Brightness' to 70%""",Settings
+"""Show the 'Product Recommendations'""",Query
+"""Translate the content to Portuguese""",Settings
+"""Navigate to 'About the Company'""",Navigation
+"""Enter 'p@ssw0rd' as the password""",Input
+"""Click on the 'Subscribe Now' button""",Click
+"""Find 'Reviews' for 'Item 123'""",Query
+"""Read the 'FAQ' section""",Read
+"""Submit a 'Bug Report' form""",Submit
+"""Find answers to common questions""",Query
+"""Ask for the top news headlines""",Query
+"""Search for 'How to bake a cake?'""",Query
+"""Get information about 'World War II'""",Query
+"""Find out the weather forecast""",Query
+"""Ask for the latest stock market updates""",Query
+"""Search for 'Healthy eating tips'""",Query
+"""Find out 'Who is the current president?'""",Query
+"""Ask 'What's the capital of France?'""",Query
+"""Search for 'How to grow tomatoes?'""",Query
+"""Find information about 'Albert Einstein'""",Query
+"""Ask for the definition of 'Photosynthesis'""",Query
+"""Search for 'Best vacation destinations'""",Query
+"""Get details about 'The Great Wall of China'""",Query
+"""Ask 'Who won the World Series in 2022?'""",Query
+"""Find the meaning of 'Artificial Intelligence'""",Query
+"""Ask for the recipe of 'Pasta Carbonara'""",Query
+"""Search for 'How to tie a tie?'""",Query
+"""Get information about 'Marie Curie'""",Query
+"""Ask 'What is the square root of 144?'""",Query
+"""Search for 'Effective time management tips'""",Query
+"""Find out 'When was the Eiffel Tower built?'""",Query
+"""Ask for the list of 'Oscar-winning movies'""",Query
+"""Search for 'How to meditate effectively?'""",Query
+"""Get details about 'The Theory of Relativity'""",Query
+"""Ask 'Who wrote the play 'Hamlet'?""",Query
+"""Find the origin of the phrase 'Bite the bullet'""",Query
+"""Ask for the current time in 'New York City'""",Query
+"""Search for 'How to make a paper airplane?'""",Query
+"""Ask for 'How do I cook spaghetti?'""",Query
+"""Search for 'Best travel destinations in 2023'""",Query
+"""Get information about 'Leonardo da Vinci'""",Query
+"""Find out 'What's the capital of Japan?'""",Query
+"""Ask 'How does photosynthesis work?'""",Query
+"""Search for 'Healthy breakfast recipes'""",Query
+"""Find information about 'Marie Antoinette'""",Query
+"""Ask 'What's the tallest mountain in the world?'""",Query
+"""Search for 'How to plant a garden?'""",Query
+"""Get details about 'The Declaration of Independence'""",Query
+"""Ask for the definition of 'Quantum Mechanics'""",Query
+"""Search for 'Tips for a successful job interview'""",Query
+"""Find out 'When was the first computer invented?'""",Query
+"""Ask 'Who is the author of 'Romeo and Juliet'?""",Query
+"""Search for 'What is the meaning of 'carpe diem'?""",Query
+"""Get information about 'Abraham Lincoln'""",Query
+"""Ask 'What is the population of China?'""",Query
+"""Search for 'How to bake a chocolate cake?'""",Query
+"""Find the list of 'Nobel Prize winners in Physics'""",Query
+"""Ask for 'The periodic table of elements'""",Query
+"""Search for 'Best hiking trails near me'""",Query
+"""Get information about 'Albert Einstein's theory of relativity'""",Query
+"""Ask 'What are the symptoms of COVID-19?'""",Query
+"""Search for 'How to improve memory and focus?'""",Query
+"""Find out 'Who was the first woman in space?'""",Query
+"""Ask 'What are the best books to read this year?'""",Query
+"""Search for 'What are the most common phobias?'""",Query
+"""Get details about 'The history of ancient Egypt'""",Query
+"""Ask 'What is the capital of Australia?'""",Query
+"""Search for 'How to start a small business?'""",Query
+"""Find information about 'The life of Martin Luther King Jr.'""",Query
+"""Navigate to 'Mars Exploration' using space magic""",Navigation
+"""Search for 'How to travel back in time?'""",Query
+"""Read 'The Great Gatsby' like you're Jay Gatsby""",Read
+"""Submit a 'Compliment for the website' form""",Submit
+"""Set the background color to 'Purple Haze'""",Settings
+"""Show the 'Secret Cat Memes' section""",Query
+"""Translate 'Hello, World!' into 'Dolphin Language'""",Settings
+"""Navigate to 'The 5th Dimension' website""",Navigation
+"""Type 'Hello, world' using Morse code""",Input
+"""Click on the 'Invisible Button'""",Click
+"""Discover 'The Lost City of Atlantis'""",Query
+"""Read the contents of the '404 Not Found' page""",Read
+"""Submit a 'Request Ice Cream Delivery' form""",Submit
+"""Change the language to 'Pirate Speak'""",Settings
+"""Uncover 'Hidden Treasure' on the website""",Query
+"""Translate the page into 'Shakespearean English'""",Settings
+"""Navigate to 'Narnia' through the wardrobe""",Navigation
+"""Type 'Lorem Ipsum' backwards""",Input
+"""Click the 'Nyan Cat' for a rainbow surprise""",Click
+"""Summon 'Bigfoot' on the webpage""",Query
+"""Read the 'Terms and Conditions' like a pirate""",Read
+"""Submit a 'Request Time Travel' form""",Submit
+"""Change the font to 'Wingdings'""",Settings
+"""Reveal 'The Matrix Code' on the website""",Query
+"""Translate the content into 'Minion Speak'""",Settings
+"""Navigate to 'The Upside Down' web page""",Navigation
+"""Type 'I am Groot' repeatedly""",Input
+"""Click the 'Invisible Ink' link""",Click
+"""Unearth 'Atlantis's Hidden Treasures'""",Query
+"""Read the contents of 'Ancient Papyrus Scrolls'""",Read
+"""Submit an 'Order Pizza from Mars' form""",Submit
+"""Change the font size to 'Gigantic'""",Settings
+"""Recreate 'Da Vinci's Mona Lisa' on the website""",Query
+"""Translate the page into 'Minimally Invasive Surgery'""",Settings
+"""Navigate to the 'Land of Oz' website""",Navigation
+"""Type 'Pineapple doesn't belong on pizza'""",Input
+"""Click the 'Unicorn Party' link""",Click
+"""Find 'The Lost City of El Dorado'""",Query
+"""Read the 'Song of Ice and Fire' in song""",Read
+"""Submit a 'Request for UFO Abduction' form""",Submit
+"""Explore 'Hogwarts School of Witchcraft' page""",Query
+"""Translate the content into 'Pirate Speak'""",Settings
+"""Discover 'Atlantis's Hidden Secrets'""",Query
+"""Ask 'What is the meaning of life, the universe, and everything?'""",Query
+"""Read the contents of 'The Hitchhiker's Guide to the Galaxy'""",Read
+"""Submit a 'Request a Call from Bigfoot' form""",Submit
+"""Recreate 'Mona Lisa' using ASCII art""",Query
+"""Translate the page into 'Klingon Language'""",Settings
+"""Unlock the 'Secret Chamber of Secrets'""",Navigation
+"""Type '01001000 01100101 01101100 01101100 01101111' in binary""",Input
+"""Click the 'The Last Unicorn' link""",Click
+"""Uncover 'The Fountain of Youth'""",Query
+"""Read the 'Complete Works of Shakespeare' in a British accent""",Read
+"""Submit a 'Request for Time Travel' form""",Submit
+"""Change the font to 'Comic Sans'""",Settings
+"""Reveal 'The Hidden Ark of the Covenant'""",Query
+"""Translate the content into 'Minion Language'""",Settings
+"""Navigate to 'Wonderland' using the rabbit hole""",Navigation
+"""Type 'I am Groot' in Groot's language""",Input
+"""Click the 'Magic Potion' link""",Click
+"""Summon 'Nessie' in Loch Ness""",Query
+"""Read the 'Lord of the Rings' like Gandalf""",Read
+"""Submit a 'Request for a Dragon Ride' form""",Submit
+"""Change the font size to 'Tiny'""",Settings
+"""Recreate 'The Scream' by Edvard Munch""",Query
+"""Navigate to 'Hogwarts' through Platform 9¾""",Navigation
+"""Type 'E=mc^2' with enthusiasm""",Input
+"""Click the 'Unicorn's Rainbow Bridge' link""",Click
+"""Summon a 'Friendly Ghost' on the webpage""",Query
+"""Read 'Alice's Adventures in Wonderland' like a mad hatter""",Read
+"""Submit a 'Request for a Unicorn Ride' form""",Submit
+"""Explore the 'Land of Oz' website""",Query
+"""Translate the content into 'Shakespearean English'""",Settings
+"""Discover 'El Dorado' while chasing rainbows""",Query
+"""Ask 'What's the answer to life, the universe, and everything?'""",Query
+"""Read 'The Hitchhiker's Guide to the Galaxy' in your best Arthur Dent impression""",Read
+"""Submit a 'Request a Dragon Sighting' form""",Submit
+"""Change the font size to 'Minuscule'""",Settings
+"""Recreate 'Mona Lisa' using emoji""",Query
+"""Translate the page into 'Minion Speak'""",Settings
+"""Unlock 'The Secret Garden' on the website""",Navigation
+"""Type 'May the Force be with you' in Star Wars language""",Input
+"""Click the 'Dragon's Lair' link""",Click
+"""Unearth 'The Lost City of Atlantis' in the depths of the internet""",Query
+"""Read 'The Declaration of Independence' in a historical narrator voice""",Read
+"""Submit a 'Request for UFO Sightings' form""",Submit
+"""Navigate to 'The Land of Oz' through the Yellow Brick Road""",Navigation
+"""Click the 'Magic Wand' for enchantment""",Click
+"""Summon 'Nessie' in the Loch Ness of the web""",Query
+"""Change the font size to 'Infinitesimal'""",Settings
+"""Recreate 'The Starry Night' in pixel art""",Query
+"""Translate the page into 'Emoji Language'""",Settings
+"""Open the 'Home' page""",Navigation
+"""Search for 'Recipe for Chocolate Cake'""",Query
+"""Read the 'About Us' section""",Read
+"""Submit the 'Contact Us' form""",Submit
+"""Change the font color to 'Red'""",Settings
+"""Show 'Recent Blog Posts'""",Query
+"""Translate the page into 'Spanish'""",Settings
+"""Navigate to 'Pricing' page""",Navigation
+"""Type 'John Doe' as the name""",Input
+"""Click on the 'Subscribe' link""",Click
+"""Find 'Customer Reviews' for 'Product XYZ'""",Query
+"""Read the 'Privacy Policy' document""",Read
+"""Submit a 'Feedback' form""",Submit
+"""Change the background color to 'Blue'""",Settings
+"""List 'Available Products'""",Query
+"""Translate the content to 'French'""",Settings
+"""Enter 'user123' as the username""",Input
+"""Click the 'Download' button""",Click
+"""Locate 'Contact Information' for support""",Query
+"""Submit a 'Newsletter Subscription' form""",Submit
+"""Adjust the font size to 'Large'""",Settings
+"""Display 'Top News Headlines'""",Query
+"""Translate the page to 'German'""",Settings
+"""Navigate to the 'FAQ' page""",Navigation
+"""Input 'password123' as the password""",Input
+"""Click on the 'Subscribe to Newsletter' button""",Click
+"""Retrieve 'User Testimonials' for 'Product ABC'""",Query
+"""Read the 'News and Announcements' section""",Read
+"""Maximize the browser window""",Settings
+"""Read the 'Product Description' out loud""",Read
+"""Change the font style to 'Italic'""",Settings
+"""List 'Available Services'""",Query
+"""Translate the content to 'Chinese'""",Settings
+"""Open the 'Contact' page""",Navigation
+"""Enter 'email@example.com' as the email""",Input
+"""Click on the 'Contact Support' button""",Click
+"""Find 'Frequently Asked Questions'""",Query
+"""Read the 'Latest News' on the homepage""",Read
+"""Change the text color to 'Green'""",Settings
+"""Display 'Popular Products'""",Query
+"""Translate the page into 'Russian'""",Settings
+"""Navigate to the 'Services' page""",Navigation
+"""Type '12345' as the verification code""",Input
+"""Click the 'Checkout' button""",Click
+"""Retrieve 'Product Ratings' for 'Product 123'""",Query
+"""Read the 'Shipping Information'""",Read
+"""Submit a 'Support Ticket' form""",Submit
+"""Adjust the font size to 'Medium'""",Settings
+"""Show 'Recommended Products'""",Query
+"""Translate the page to 'Spanish'""",Settings
+"""Open the 'Support Center' webpage""",Navigation
+"""Input 'username' as the login ID""",Input
+"""Click on the 'Next Page' link""",Click
+"""Find 'Customer Reviews' for 'Product ABC'""",Query
+"""Read the 'Blog Posts' on the website""",Read
+"""Refresh the webpage""",Navigation
+"""Read the 'Contact Information' on the page""",Read
+"""Change the text size to 'Larger'""",Settings
+"""List 'Product Categories'""",Query
+"""Translate the content to 'Italian'""",Settings
+"""Enter 'john.doe@example.com' as the email""",Input
+"""Click on the 'Submit Feedback' button""",Click
+"""Find 'Customer Testimonials'""",Query
+"""Read the 'Terms of Service' document""",Read
+"""Change the background color to 'Yellow'""",Settings
+"""Show 'New Arrivals' in the results""",Query
+"""Translate the page to 'French'""",Settings
+"""Type 'user123' as the username""",Input
+"""Retrieve 'Product Reviews' for 'Product XYZ'""",Query
+"""Read the 'FAQs' about shipping""",Read
+"""Adjust the font size to 'Small'""",Settings
+"""Display 'Special Offers'""",Query
+"""Translate the content to 'Spanish'""",Settings
+"""Navigate to the 'Help Center' page""",Navigation
+"""Click on the 'Submit Order' button""",Click
+"""Find 'The Legendary Unicorn' hiding on the site""",Query
+"""Read the 'Ancient Manuscript' in a mysterious tone""",Read
+"""Submit a 'Secret Message to Aliens' form""",Submit
+"""Change the font to 'Cursive Calligraphy'""",Settings
+"""Reveal 'Hidden Messages in the Source Code'""",Query
+"""Translate the content into 'Elvish Language'""",Settings
+"""Embark on a journey to 'Atlantis' online""",Navigation
+"""Click the 'Enchanted Door to Another Realm'""",Click
+"""Decode 'The Rosetta Stone' like an archaeologist""",Read
+"""Submit a 'Request a Visit from the Future' form""",Submit
+"""Change the text color to 'Mystical Purple'""",Settings
+"""Teleport to 'The Lost City of El Dorado' on the web""",Navigation
+"""Click on the 'Magical Mirror' for a glimpse into another dimension""",Click
+"""Decode the 'Voynich Manuscript' of the internet""",Read
+"""Submit a 'Request for a Ride on a Dragon' form""",Submit
+"""Change the font size to 'Enormous'""",Settings
+"""Unravel 'The Enigma Machine' of the website""",Query
+"""Translate the content into 'Hieroglyphics'""",Settings
+"""Navigate to 'The Time Machine' online""",Navigation
+"""Click the 'Pot of Gold' for a magical surprise""",Click
+"""Decipher 'The Voynich Manuscript' of the web""",Read
+"""Submit a 'Request for a UFO Encounter' form""",Submit
+"""Change the text size to 'Tiny as a Fairy's Wing'""",Settings
+"""Unearth 'The Lost Treasure' on the website""",Query
+"""Translate the page into 'Pirate Speak'""",Settings
+"""Navigate to 'The Enchanted Forest' webpage""",Navigation
+"""Click on 'The Magic Portal' for an adventure""",Click
+"""Translate 'Lorem Ipsum' into 'Shakespearean English'""",Settings
+"""Navigate to 'The Parallel Universe' online""",Navigation
+"""Discover the 'Secret Library' on the website""",Query
+"""Read the 'Ancient Scroll' with reverence""",Read
+"""Make the page 'Glow like a Supernova'""",Settings
+"""Submit a 'Request for Interstellar Travel' form""",Submit
+"""Change the font to 'Gothic Script'""",Settings
+"""Uncover 'The Hidden Path' on the site""",Query
+"""Translate the content into 'Morse Code'""",Settings
+"""Journey to 'The Lost Temple' online""",Navigation
+"""Click the 'Enchanted Door to a Mystical Realm'""",Click
+"""Decode 'The Cryptic Riddles' like an adventurer""",Read
+"""Alter the screen 'Shade of Midnight'""",Settings
+"""Submit a 'Request for a Mythical Creature' form""",Submit
+"""Change the text color to 'Enchanted Green'""",Settings
+"""Embark on a quest to 'The Hidden Valley' on the web""",Navigation
+"""Click on the 'Magic Mirror' for a glimpse into another dimension""",Click
+"""Decrypt the 'Ancient Manuscript' of the website""",Read
+"""Turn the screen 'Twilight Blue'""",Settings
+"""Change the font size to 'Mythical Proportions'""",Settings
+"""Unearth 'The Lost Artifact' on the website""",Query
+"""Translate the content into 'Elvish Script'""",Settings
+"""Journey to 'The Forgotten Temple' online""",Navigation
+"""Click the 'Pot of Gold' for a mystical surprise""",Click
+"""Decrypt the 'Runes of Wisdom' from the web""",Read
+"""Make the screen 'Ethereal White'""",Settings
+"""Submit a 'Request for a Meeting with a Mythical Creature' form""",Submit
+"""Change the text size to 'Otherworldly'""",Settings
+"""Unravel 'The Mysteries of the Universe' on the website""",Query
+"""Translate the page into 'Celestial Language'""",Settings
+"""Navigate to 'The Enchanted Grove' webpage""",Navigation
+"""Click on 'The Gateway to Dreams' for an adventure""",Click
+"""Translate 'Lorem Ipsum' into 'Ancient Tongue'""",Settings
+"""Journey to 'The Parallel Dimension' online""",Navigation
+"""Click on the 'Explore' button""",Click
+"""Submit a 'Contact Us' form""",Submit
+"""Write 'Hello, World!' in the input field""",Enter Text
+"""Select the 'Red' color from the dropdown""",Select
+"""Enter text 'Pizza' in the search bar""",Enter Text
+"""Check the 'I agree' checkbox""",Input
+"""Search for 'How to bake a cake?'""",Search
+"""Answer 'What's the weather today?'""",Query
+"""Fill out a 'Survey' form""",Forms
+"""Navigate to the 'About Us' page""",Navigation
+"""Click the 'Buy Now' button""",Click
+"""Submit a 'Feedback' form""",Submit
+"""Read the 'Product Description' aloud""",Read
+"""Write 'Username123' in the username field""",Enter Text
+"""Select 'English' from the language options""",Select
+"""Enter text 'New York' in the location field""",Enter Text
+"""Check the 'Subscribe to Newsletter' box""",Input
+"""Search for 'Best Restaurant in Town'""",Search
+"""Answer 'What's the capital of France?'""",Query
+"""Fill out a 'Customer Satisfaction' survey""",Forms
+"""Click the 'Download' link""",Click
+"""Submit a 'Support Request' form""",Submit
+"""Read the 'User Reviews' section""",Read
+"""Write '12345' in the verification code field""",Enter Text
+"""Select 'Gold' from the color choices""",Select
+"""Enter text 'Summer Vacation' in the message field""",Enter Text
+"""Check the 'Terms and Conditions' box""",Input
+"""Search for 'Healthy Recipes'""",Search
+"""Answer 'What's the meaning of life?'""",Query
+"""Fill out a 'Request for Quote' form""",Forms
+"""Navigate to the 'Contact' page""",Navigation
+"""Click the 'Add to Cart' button""",Click
+"""Submit a 'Bug Report' form""",Submit
+"""Read the 'News and Updates' section""",Read
+"""Write 'feedback@example.com' in the email field""",Enter Text
+"""Select 'Summer Collection' from the product options""",Select
+"""Enter text '123-456-7890' in the phone field""",Enter Text
+"""Check the 'Receive Promotions' box""",Input
+"""Search for 'How to play the guitar?'""",Search
+"""Answer 'What's the square root of 144?'""",Query
+"""Fill out a 'Job Application' form""",Forms
+"""Click on the 'Home' link""",Click
+"""Submit a 'Subscribe to Newsletter' form""",Submit
+"""Read the 'FAQ' page content""",Read
+"""Write 'John Smith' in the name field""",Enter Text
+"""Select 'Medium' from the size options""",Select
+"""Enter text 'Product Name' in the search bar""",Enter Text
+"""Check the 'I agree to the terms' box""",Input
+"""Search for 'How to tie a tie?'""",Search
+"""Fill out a 'Contact Us' form""",Forms
+"""Click the 'Download PDF' button""",Click
+"""Select 'Red' from the color choices""",Select
+"""Teleport to 'The Hidden Valley' online""",Navigation
+"""Unlock 'The Secret Chamber of Secrets'""",Navigation
+"""Decode 'The Voynich Manuscript' of the internet""",Read
+"""Make the screen 'Bounce Like a Bouncy Castle'""",Settings
+"""Change the text size to 'Enormous'""",Settings
+"""Unravel 'The Lost Treasure' on the website""",Query
+"""Change the text size to 'Mythical Proportions'""",Settings
+"""Decode 'The Voynich Manuscript' of the web""",Read
+"""Make the screen 'Spin Like a Tornado'""",Settings
+"""Click on the 'Contact Us' link""",Click
+"""Read the 'FAQ' page""",Read
+"""Enter 'John Smith' in the name field""",Enter Text
+"""Type 'Pizza' in the search bar""",Enter Text
+"""Click the 'Contact' link""",Click
+"""Submit the 'Subscribe to Newsletter' form""",Submit
+"""Read the 'About Us' page""",Read
+"""Enter 'Alice Johnson' in the name field""",Enter Text
+"""Select 'Large' from the size options""",Select
+"""Type 'Las Vegas' in the search bar""",Enter Text
+"""Check the 'Receive Updates' box""",Input
+"""Search for 'Best Mobile Phones'""",Search
+"""Answer 'What's the tallest mountain in the world?'""",Query
+"""Click the 'Download PDF' link""",Click
+"""Write 'username456' in the username field""",Enter Text
+"""Select 'Green' from the color choices""",Select
+"""Enter text 'Los Angeles' in the location field""",Enter Text
+"""Check the 'I accept the Terms' box""",Input
+"""Search for 'Healthy Breakfast Recipes'""",Search
+"""Answer 'What's the population of London?'""",Query
+"""Read the 'Product Features' section""",Read
+"""Write 'contact@example.com' in the email field""",Enter Text
+"""Select 'Winter Collection' from the product options""",Select
+"""Enter text '987-654-3210' in the phone field""",Enter Text
+"""Check the 'Subscribe for Updates' box""",Input
+"""Search for 'How to make a paper airplane?'""",Search
+"""Answer 'What's the capital of Spain?'""",Query
+"""Fill out a 'Product Review' form""",Forms
+"""Navigate to the 'Home' page""",Navigation
+"""Read the 'Terms of Service' page""",Read
+"""Write 'JaneDoe123' in the username field""",Enter Text
+"""Select 'Blue' from the color options""",Select
+"""Type 'Product XYZ' in the search bar""",Enter Text
+"""Check the 'Agree to Terms' box""",Input
+"""Search for 'How to bake chocolate cake?'""",Search
+"""Answer 'What's the largest animal on Earth?'""",Query
+"""Fill out a 'Request a Quote' form""",Forms
+"""Write 'feedback@email.com' in the email field""",Enter Text
+"""Select 'Small' from the size options""",Select
+"""Enter text 'New York, NY' in the location field""",Enter Text
+"""Search for 'Healthy Smoothie Recipes'""",Search
+"""Fill out a 'Contact Support' form""",Forms
+"""Navigate to the 'Products' page""",Navigation
+"""Click the 'Sign Up' button""",Click
+"""Read the 'Product Features' description""",Read
+"""Write 'user123' in the login ID field""",Enter Text
+"""Select 'XL' from the size choices""",Select
+"""Type 'Summer Vacation' in the message box""",Enter Text
+"""Check the 'Agree to Privacy Policy' box""",Input
+"""Search for 'Popular Movies'""",Search
+"""Answer 'What's the currency in Japan?'""",Query
+"""Fill out a 'Service Request' form""",Forms
+"""Submit a 'Customer Feedback' form""",Submit
+"""Read the 'Latest News' on the website""",Read
+"""Select 'Gold' from the available colors""",Select
+"""Type 'Contact Us' in the search bar""",Enter Text
+"""Check the 'I am not a robot' box""",Input
+"""Search for 'Best Hiking Trails'""",Search
+"""Answer 'What's the capital of Australia?'""",Query
+"""Fill out a 'User Survey' form""",Forms
+"""Submit a 'Support Ticket' form""",Submit
+"""Read the 'User Reviews' on the webpage""",Read
+"""Enter text '555-123-4567' in the phone field""",Enter Text
+"""Answer 'What's the square root of 121?'""",Query
+"""Click the 'Home' link""",Click
+"""Answer 'What's the capital of Brazil?'""",Query
+"""Fill out a 'User Review' form""",Forms
+"""Navigate to the 'Contact Support' page""",Navigation
+"""Click on the 'Checkout' button""",Click
+"""Read the 'Product Details' section""",Read
+"""Select 'Green' from the color options""",Select
+"""Type 'Product ABC' in the search bar""",Enter Text
+"""Check the 'I agree to the Terms and Conditions' box""",Input
+"""Search for 'How to bake a pumpkin pie?'""",Search
+"""Answer 'What's the highest mountain in Africa?'""",Query
+"""Write 'User789' in the username field""",Enter Text
+"""Select 'Blue' from the color choices""",Select
+"""Enter text 'San Francisco' in the location field""",Enter Text
+"""Search for 'Best Sushi Restaurants'""",Search
+"""Answer 'What's the weather in London today?'""",Query
+"""Fill out a 'Customer Feedback' form""",Forms
+"""Navigate to the 'About' page""",Navigation
+"""Click the 'Pricing' link""",Click
+"""Submit a 'Contact Support' form""",Submit
+"""Write 'John Doe' in the name field""",Enter Text
+"""Select 'XL' from the size options""",Select
+"""Check the 'I accept the Terms and Conditions' box""",Input
+"""Search for 'How to make a cup of coffee?'""",Search
+"""Answer 'What's the largest desert in the world?'""",Query
+"""Navigate to the 'Support' page""",Navigation
+"""Click the 'Download Now' button""",Click
+"""Write 'user456' in the username field""",Enter Text
+"""Select 'Gold' from the color options""",Select
+"""Check the 'Receive Special Offers' box""",Input
+"""Search for 'Best Movies of All Time'""",Search
+"""Answer 'What's the capital of Italy?'""",Query
+"""Click on the 'Sign Up' button""",Click
+"""Enter text '555-987-1234' in the phone field""",Enter Text
+"""Check the 'Subscribe to Updates' box""",Input
+"""Search for 'How to bake a chocolate cake?'""",Search
+"""Answer 'What's the currency in India?'""",Query
+"""Navigate to the 'Support Center' page""",Navigation
+"""Write 'username789' in the username field""",Enter Text
+"""Check the 'I agree to the Terms and Privacy Policy' box""",Input
+"""Search for 'How to make a pumpkin pie?'""",Search
+"""Answer 'What's the highest mountain in North America?'""",Query
+"""Write 'User987' in the username field""",Enter Text
+"""Answer 'What's the weather in Tokyo today?'""",Query
+"""Bookmark the current page""",Bookmark
+"""Close the 'Product Details' pop-up""",Close
+"""Refresh the page""",Refresh
+"""Bookmark the 'Help Center' page""",Bookmark
+"""Open a new tab""",Open Tab
+"""Close the 'Terms and Conditions' window""",Close
+"""Reload the page""",Refresh
+"""Bookmark the 'FAQ' page""",Bookmark
+"""Open the 'Contact Us' page""",Navigation
+"""Close the 'Chat Support' box""",Close
+"""Refresh the 'Product Reviews' section""",Refresh
+"""Bookmark the 'News' section""",Bookmark
+"""Open a new 'User Profile' tab""",Open Tab
+"""Close the 'Privacy Policy' pop-up""",Close
+"""Reload the 'User Reviews' page""",Refresh
+"""Bookmark the 'Services' page""",Bookmark
+"""Open the 'About Us' tab""",Navigation
+"""Close the 'Search Results' window""",Close
+"""Refresh the 'Product Description' page""",Refresh
+"""Bookmark the 'Customer Feedback' page""",Bookmark
+"""Open a new 'Settings' tab""",Open Tab
+"""Close the 'Login' pop-up""",Close
+"""Reload the 'Contact Us' page""",Refresh
+"""Bookmark the 'Products' section""",Bookmark
+"""Open the 'Support Center' tab""",Open Tab
+"""Close the 'Feedback Form' window""",Close
+"""Refresh the 'FAQ' section""",Refresh
+"""Bookmark the 'Support Tickets' page""",Bookmark
+"""Open a new 'Feedback' tab""",Open Tab
+"""Close the 'Product Comparison' window""",Close
+"""Reload the 'Terms and Conditions' page""",Refresh
+"""Bookmark the 'User Reviews' section""",Bookmark
+"""Open the 'Product Description' tab""",Open Tab
+"""Close the 'Help Chat' box""",Close
+"""Refresh the 'Privacy Policy' page""",Refresh
+"""Bookmark the 'Contact Support' page""",Bookmark
+"""Open a new 'Product Details' tab""",Open Tab
+"""Close the 'Order Confirmation' window""",Close
+"""Reload the 'Services' page""",Refresh
+"""Bookmark the 'Shopping Cart' page""",Bookmark
+"""Open the 'My Account' tab""",Open Tab
+"""Refresh the 'User Profile' page""",Refresh
+"""Bookmark the 'About Us' page""",Bookmark
+"""Close the 'Privacy Policy' window""",Close
+"""Reload the 'Contact Support' page""",Refresh
+"""Bookmark the 'Home' page""",Bookmark
+"""Refresh the 'FAQ' page""",Refresh
+"""Close the 'Contact Us' window""",Close
+"""Reload the 'Support Center' page""",Refresh
+"""Bookmark the 'Pricing' page""",Bookmark
+"""Open the 'Services' tab""",Open Tab
+"""Close the 'Support Request' window""",Close
+"""Refresh the 'Service Request' page""",Refresh
+"""Open a new 'Terms and Conditions' tab""",Open Tab
+"""Close the 'Service Request' window""",Close
+"""Reload the 'User Reviews' section""",Refresh
+"""Bookmark the 'User Profile' tab""",Bookmark
+"""Open the 'Customer Feedback' tab""",Open Tab
+"""Bookmark the 'Support Center' page""",Bookmark
+"""Open a new 'Contact Support' tab""",Open Tab
+"""Reload the 'FAQ' section""",Refresh
+"""Open the 'Support Tickets' tab""",Open Tab
+"""Refresh the 'Privacy Policy' window""",Refresh
+"""Bookmark the 'Product Description' page""",Bookmark
+"""Reload the 'User Profile' page""",Refresh
+"""Open the 'Product Details' tab""",Open Tab
+"""Refresh the 'Services' page""",Refresh
+"""Open the 'Checkout' tab""",Open Tab
+"""Reload the 'Service Request' page""",Refresh
+"""Open the 'Pricing' tab""",Open Tab
+"""Refresh the 'Contact Support' page""",Refresh
+"""Open the 'FAQ' tab""",Open Tab
+"""Bookmark the 'Service Request' page""",Bookmark
+"""Open the 'User Profile' tab""",Open Tab
+"""Reload the 'Privacy Policy' window""",Refresh
+"""Open the 'Contact Support' tab""",Open Tab
